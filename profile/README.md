@@ -1,6 +1,6 @@
 # SimpleAuth0
 
-![SimpleAuth0 Logo](../simpleAuth0.png)
+<!-- ![SimpleAuth0 Logo](../simpleAuth0.png) -->
 
 ## 组织简介
 
